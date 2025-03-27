@@ -1,0 +1,21 @@
+{
+    "accounts": [
+        {
+            "name": "account_1",
+            "api_key": "YOUR_API_KEY_HERE",
+            "api_secret": "YOUR_API_SECRET_HERE",
+            "passphrase": "YOUR_PASSPHRASE_HERE"
+        },
+        {
+            "name": "account_2",
+            "api_key": "SECOND_API_KEY_HERE",
+            "api_secret": "SECOND_API_SECRET_HERE",
+            "passphrase": "SECOND_PASSPHRASE_HERE"
+        }
+    ],
+    "trading": {
+        "symbol": "BTCUSDT_SPBL",  
+        "coin": "BTC",   
+        "quote": "USDT"  
+    }
+}
