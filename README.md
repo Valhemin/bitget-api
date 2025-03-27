@@ -89,10 +89,6 @@ Follow the command-line interface to:
 3. Cancel pending limit orders for all accounts
 4. Exit
 
-## Logging
-
-The application logs all actions to both the console and a file named `trading_log.log` in the application directory.
-
 ## Security
 
 - Store your API keys securely and never share them
